@@ -1,4 +1,3 @@
 # learn-github
 
-AEKNARIN HUANA
-SEK
+AEKNARIN HUANA SEK
