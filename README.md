@@ -1,4 +1,4 @@
-# lern-github
+# learn-github
 
 AEKNARIN HUANA
 SEK
